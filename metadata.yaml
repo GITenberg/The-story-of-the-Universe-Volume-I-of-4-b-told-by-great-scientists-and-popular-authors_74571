@@ -1,0 +1,30 @@
+_repo: The-story-of-the-Universe-Volume-I-of-4-b-told-by-great-scientists-and-popular-authors_74571
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Singleton, Esther
+    birthdate: 1865
+    deathdate: 1930
+    gutenberg_agent_id: '7412'
+    url: http://www.gutenberg.org/2009/agents/7412
+description: ''
+gutenberg_issued: '2024-10-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74571'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/007671763?type%5B%5D=all&lookfor%5B%5D=story%20of%20the%20universe%20singleton&ft=ft
+pgterms:marc905: 20230523050718singleton
+pgterms:marc906: '1905'
+pgterms:marc907: US
+production_note: John Campbell, and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aNew York :$bP.F. Collier and Son, $c1905.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The story of the Universe, Volume I (of 4) : $b told by great scientists and
+  popular authors'
+url: http://www.gutenberg.org/ebooks/74571
