@@ -1,5 +1,8 @@
 _repo: The-story-of-the-Universe-Volume-I-of-4-b-told-by-great-scientists-and-popular-authors_74571
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74571-h/images/cover-orig.jpg
 creator:
   editor:
     agent_name: Singleton, Esther
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '7412'
     url: http://www.gutenberg.org/2009/agents/7412
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74571#The-story-of-the-Universe-Volume-I-of-4-b-told-by-great-scientists-and-popular-authors
 gutenberg_issued: '2024-10-12'
 gutenberg_type: Text
 identifiers:
